@@ -1,0 +1,6 @@
+task Hello{
+  doLast{
+    println 'This is inside Hello task'
+  }
+}
+
